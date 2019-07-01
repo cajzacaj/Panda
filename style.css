@@ -2,7 +2,7 @@ body {
     font-family: arial, helvetica, sans-serif;
     font-size: 14px;
     color: black;
-    background-color: #FFFF66;
+    background-color: #0bd5e3;
 }
 div
 {
@@ -20,19 +20,22 @@ div
 h1
 {
 	font-size: 50px;
-	color: #000;
-	background-color: #ECC8EC;
+	color: #fff;
+	background-color: #d893ed;
 	padding: 50px;
-	text-shadow: 0px 0px 30px black;
+	text-shadow: 0px 0px 30px white;
 }
 h2 
 {
-	color: #000;
-	text-shadow: 0px 0px 20px black;
+	color: #ff8afb;
+	text-shadow: 0px 0px 20px #fa1bf2;
 }
 p
 {
 	background-color: #b2ffb2;
+	border-color: #ff69b4;
+	border-width: 5px;
+	border-style: dotted;
 }
 img {
     width:500;
