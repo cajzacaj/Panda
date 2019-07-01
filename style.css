@@ -11,6 +11,10 @@ body {
     border-color: #aaa;
     border-width: 15px;
 }
+h1
+{
+	font-size: 50px;
+}
 img {
     width: 470;
     height:auto;
