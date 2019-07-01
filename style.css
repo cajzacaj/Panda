@@ -20,15 +20,15 @@ div
 h1
 {
 	font-size: 50px;
-	color: #006400;
+	color: #000;
 	background-color: #ECC8EC;
 	padding: 50px;
-	text-shadow: 0px 0px 30px green;
+	text-shadow: 0px 0px 30px black;
 }
 h2 
 {
-	color: #006400;
-	text-shadow: 0px 0px 20px green;
+	color: #000;
+	text-shadow: 0px 0px 20px black;
 }
 p
 {
