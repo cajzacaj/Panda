@@ -3,8 +3,12 @@ body {
     font-size: 14px;
     color: black;
     background-color: #FFFF66;
+}
+div
+{
+	background-color: #FFFFFF;
     margin: auto;
-    padding: 0;
+    padding: 30;
     width: 500;
 }
 h1
