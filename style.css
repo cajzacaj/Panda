@@ -6,7 +6,7 @@ body {
 }
 div
 {
-	background-color: #FFFFFF;
+	background-color: #ABCDEF;
     margin: auto;
     padding: 30;
     width: 500;
@@ -17,6 +17,7 @@ div
     border-color: #ff69b4;
     border-style: solid;
 }
+
 h1
 {
 	font-size: 50px;
