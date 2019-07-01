@@ -1,0 +1,14 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
+    background-color: #cff;
+    margin: auto;
+    padding: 0;
+    width: 500;
+
+img {
+    width:400;
+    height:auto;
+    margin: auto;
+}
