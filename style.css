@@ -10,6 +10,12 @@ div
     margin: auto;
     padding: 30;
     width: 500;
+    border-right-width: 20px;
+    border-left-width: 20px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-color: #ff69b4;
+    border-style: solid;
 }
 h1
 {
