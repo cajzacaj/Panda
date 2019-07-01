@@ -23,6 +23,10 @@ h1
 	background-color: #ECC8EC;
 	padding: 50px;
 }
+p
+{
+	background-color: #b2ffb2;
+}
 img {
     width:500;
     height:auto;
